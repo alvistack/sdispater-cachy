@@ -25,3 +25,5 @@ config.py
 Makefile
 .python-version
 poetry.lock
+
+.pybuild
