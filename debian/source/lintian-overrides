@@ -1,0 +1,5 @@
+python-cachy source: file-without-copyright-information
+python-cachy source: no-debian-changes
+python-cachy source: source-contains-prebuilt-windows-binary
+python-cachy source: source-is-missing
+python-cachy source: source-package-encodes-python-version
